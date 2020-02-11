@@ -1,0 +1,9 @@
+c:\users\complab502-pc43\documents\visual studio 2015\Projects\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.exe.config
+c:\users\complab502-pc43\documents\visual studio 2015\Projects\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.exe
+c:\users\complab502-pc43\documents\visual studio 2015\Projects\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.pdb
+c:\users\complab502-pc43\documents\visual studio 2015\Projects\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csprojResolveAssemblyReference.cache
+c:\users\complab502-pc43\documents\visual studio 2015\Projects\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.Form1.resources
+c:\users\complab502-pc43\documents\visual studio 2015\Projects\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.Properties.Resources.resources
+c:\users\complab502-pc43\documents\visual studio 2015\Projects\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csproj.GenerateResource.Cache
+c:\users\complab502-pc43\documents\visual studio 2015\Projects\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.exe
+c:\users\complab502-pc43\documents\visual studio 2015\Projects\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.pdb
